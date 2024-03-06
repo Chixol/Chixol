@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFFFF3&height=200&section=header&text=Chixol&fontSize=80&fontColor=566270)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chixol)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
 <summary>
