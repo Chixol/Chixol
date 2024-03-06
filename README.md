@@ -2,6 +2,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chixol&show_icons=true&theme=transparent)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chixol&hide=contribs,prs)
+
 <details>
 <summary>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 내가 지금 배우는 언어!
