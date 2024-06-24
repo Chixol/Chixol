@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>개발 지망생 박형우🙋‍♂️</h1>
+  <h1>Back End 개발자 지망생 박형우🙋‍♂️</h1>
 
 <a href="mailto:phw9278@gmail.com"><img alt="gmail-link" height="25" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&&logoColor=white"/></a>
 <a href="https://velog.io/@phw9278"><img alt="vlog-link" height="25" src="https://img.shields.io/badge/Tech blog-20C997?style=flat-square&logo=Velog&&logoColor=white"/></a>
