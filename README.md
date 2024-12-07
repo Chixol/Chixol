@@ -3,6 +3,7 @@
 
 <a href="mailto:phw9278@gmail.com"><img alt="gmail-link" height="25" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&&logoColor=white"/></a>
 <a href="https://velog.io/@phw9278"><img alt="vlog-link" height="25" src="https://img.shields.io/badge/Tech blog-20C997?style=flat-square&logo=Velog&&logoColor=white"/></a>
+<a href="https://www.youtube.com/@seotaemong"/><img alt="youtube-link" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 
 새로운 도전을 즐기는 개발자 입니다.\
 매 순간 사용자 경험을 최우선으로 생각합니다.\
@@ -21,6 +22,12 @@
     <img src="https://img.shields.io/badge/Java-f3b348?style=flat-square&logo=&logoColor=white" height=25px />
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" height=25px />
     <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white" height=25px />
+    <br/>
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height=25px />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height=25px />
+    <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" height=25px />
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" height=25px />
+    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height=25px />
     <br/>
     <img src="https://img.shields.io/badge/JWT-97979A?style=flat-square&logo=&logoColor=white" height=25px />
     <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white" height=25px />
